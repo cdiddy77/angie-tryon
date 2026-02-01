@@ -158,6 +158,10 @@ const config: Config = {
               label: "Instagram",
               href: "https://www.instagram.com/_weirdfingers_/",
             },
+            {
+              label: "Substack",
+              href: "https://weirdfingers.substack.com",
+            },
           ],
         },
         {
