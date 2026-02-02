@@ -442,3 +442,6 @@ But Claude Code must NOT:
 Unless the user explicitly asks for commits to be made.
 
 **CRITICAL**: Claude Code must NEVER push to remote repositories unless explicitly instructed to commit changes, always ask the user to push manually. This prevents accidental pushes to production or shared branches.
+
+## Task Management
+This project uses a CLI ticket system for task management. Run `tk help` when you need to use it.
