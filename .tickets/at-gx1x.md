@@ -17,4 +17,3 @@ Add tag types to GraphQL schema using Strawberry. Create mutations for tagging g
 ## Acceptance Criteria
 
 Tag types in GraphQL schema, Mutations work for adding/removing tags, Can query generations by tag
-

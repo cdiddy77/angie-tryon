@@ -17,4 +17,3 @@ Build OutfitSlot component with empty and selected states. Show item thumbnail w
 ## Acceptance Criteria
 
 Component renders all states correctly, Edit actions work, Supports all slot types
-

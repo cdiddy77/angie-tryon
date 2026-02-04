@@ -17,4 +17,3 @@ Set up environment variables for Supabase connection, Boards API endpoints, and 
 ## Acceptance Criteria
 
 .env.local.example created with all variables documented, App connects to Supabase and Boards API
-

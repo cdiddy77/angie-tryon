@@ -12,4 +12,3 @@ tags: [integration, api]
 # System Integration Epic for Angie-Tryon
 
 Epic for integrations with Boards API, Supabase Storage, and browser sharing APIs
-

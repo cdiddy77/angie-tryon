@@ -17,4 +17,3 @@ Save user's last selections for each slot in local storage. Persist user prefere
 ## Acceptance Criteria
 
 Selections persist between sessions, Preferences saved and loaded, Cache works correctly
-

@@ -12,4 +12,3 @@ tags: [polish, optimization]
 # Polish & Optimization Epic for Angie-Tryon
 
 Epic for polish including animations, accessibility, and performance optimization
-

@@ -12,4 +12,3 @@ tags: [features, core]
 # Core Features Epic for Angie-Tryon
 
 Epic for feature implementation including wardrobe management, outfit generation, and regeneration
-

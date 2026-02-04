@@ -17,4 +17,3 @@ Implement selection drawer using Shadcn Drawer component. Include input method b
 ## Acceptance Criteria
 
 Drawer slides up smoothly, Input methods functional, Item grid displays correctly, Swipe dismissal works
-
