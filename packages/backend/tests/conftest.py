@@ -8,6 +8,9 @@ from collections.abc import Generator
 from pathlib import Path
 from typing import Any
 
+# Set testing flag BEFORE any boards imports to prevent .env loading
+os.environ["BOARDS_TESTING"] = "1"
+
 import pytest
 import pytest_asyncio
 from psycopg import Connection  # type: ignore[import]
