@@ -17,4 +17,3 @@ Build generate button with green gradient background matching mockups. Show disa
 ## Acceptance Criteria
 
 Button styling matches mockups, Disabled/enabled states work, Loading state displays correctly
-

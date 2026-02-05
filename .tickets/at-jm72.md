@@ -17,4 +17,3 @@ Set up GraphQL client for angie-tryon app. Implement board creation for new user
 ## Acceptance Criteria
 
 GraphQL client configured, Can create/fetch boards, Authentication works
-

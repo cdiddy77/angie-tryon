@@ -17,4 +17,3 @@ Use browser platform share API to share generated outfits. Provide fallback for 
 ## Acceptance Criteria
 
 Share button works on mobile, Fallback works on desktop, Image included in share
-

@@ -17,4 +17,3 @@ Validate user has selected required slots. Call generation API with selected ite
 ## Acceptance Criteria
 
 Generation triggered correctly, Progress shown to user, Results displayed, Outfit saved with tag
-

@@ -12,4 +12,3 @@ tags: [frontend, state]
 # State Management Epic for Angie-Tryon
 
 Epic for state management including local storage persistence and selection state
-

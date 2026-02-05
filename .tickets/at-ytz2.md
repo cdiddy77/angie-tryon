@@ -17,4 +17,3 @@ Create new Next.js 14 app with App Router in apps/angie-tryon directory. Copy te
 ## Acceptance Criteria
 
 Next.js app created in apps/angie-tryon, Tailwind configured, Shadcn/ui installed, App runs with npm run dev
-

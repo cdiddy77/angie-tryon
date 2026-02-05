@@ -17,4 +17,3 @@ Implement mobile-first responsive layout with header component and main containe
 ## Acceptance Criteria
 
 Responsive layout works on mobile/desktop, Header displays correctly, Color scheme matches mockups
-

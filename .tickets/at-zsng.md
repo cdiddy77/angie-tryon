@@ -12,4 +12,3 @@ tags: [setup, infrastructure]
 # Project Setup Epic for Angie-Tryon
 
 Epic for initial angie-tryon app setup including Next.js initialization, authentication, and environment configuration
-

@@ -17,4 +17,3 @@ Implement clipboard paste for images based on UploadArtifact.tsx pattern. Suppor
 ## Acceptance Criteria
 
 Can paste images from clipboard, Images saved to wardrobe, Correct tag applied
-

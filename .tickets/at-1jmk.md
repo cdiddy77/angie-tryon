@@ -12,4 +12,3 @@ tags: [qa, testing, documentation]
 # Quality Assurance Epic for Angie-Tryon
 
 Epic for testing and documentation including unit tests, E2E tests, and user guides
-

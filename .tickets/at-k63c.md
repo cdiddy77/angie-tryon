@@ -17,4 +17,3 @@ Implement React hooks for tag operations: useTagGeneration (add/remove tags), us
 ## Acceptance Criteria
 
 All hooks work correctly, Follow existing hook patterns, TypeScript types complete
-

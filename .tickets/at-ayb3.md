@@ -17,4 +17,3 @@ Implement SMS magic link authentication from friends-and-family-supabase templat
 ## Acceptance Criteria
 
 SMS auth works, No login screens visible, User remains logged in between sessions
-
