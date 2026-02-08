@@ -12,4 +12,3 @@ tags: [frontend, ui]
 # UI Components Epic for Angie-Tryon
 
 Epic for UI component development including outfit slots, selection drawer, and generate button
-

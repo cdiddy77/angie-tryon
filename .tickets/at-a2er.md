@@ -17,4 +17,3 @@ Use browser camera API for direct photo capture on mobile. Process captured imag
 ## Acceptance Criteria
 
 Camera opens on mobile, Photo capture works, Images saved to wardrobe
-

@@ -17,4 +17,3 @@ Implement fal-ai/kling/v1-5/kolors-virtual-try-on generator for virtual clothing
 ## Acceptance Criteria
 
 Generator registered in system, Can call Kolors API successfully, Parameters properly mapped
-

@@ -12,4 +12,3 @@ tags: [deployment, devops]
 # Deployment Epic for Angie-Tryon
 
 Epic for deployment including Docker setup, CI/CD pipeline, and production configuration
-

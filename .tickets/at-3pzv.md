@@ -12,4 +12,3 @@ tags: [backend, api]
 # Backend Enhancements Epic for Angie-Tryon
 
 Epic for backend modifications including tagging system, GraphQL schema updates, and AI generator integration
-
